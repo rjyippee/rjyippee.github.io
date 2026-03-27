@@ -1,5 +1,6 @@
 body{
     background-color: lightblue;
+    height: 100vh;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -50,6 +51,11 @@ ul.contact li{
 h2{
     text-indent: 15px;
 }
+main{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
 section{
     background-color: aliceblue;
     margin: 0px 10% 0px 10%;
@@ -69,4 +75,8 @@ body a{
 }
 header a{
     color: blue;
+}
+footer a{
+    color:aliceblue;
+    text-decoration: none;
 }

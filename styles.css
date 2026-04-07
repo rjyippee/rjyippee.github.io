@@ -70,6 +70,7 @@ footer{
 .current-page{
     text-decoration: none;
 }
+/* Link stylizations */
 body a{
     color: #5f9ea0;
 }
@@ -80,3 +81,8 @@ footer a{
     color:aliceblue;
     text-decoration: none;
 }
+section a{
+    font-weight: bold;
+}
+
+/* Comment */

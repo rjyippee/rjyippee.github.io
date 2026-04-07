@@ -88,9 +88,13 @@ section a{
     font-weight: bold;
 }
 
-/* MOBILE */
+/* MOBILE VIEWING*/
 
 @media (max-width: 768px){
+    
+    main{
+        margin-bottom: 10px;
+    }
     
     h1{
         margin: 10px 10% 10px 10%;

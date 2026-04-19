@@ -87,6 +87,9 @@ footer a{
 section a{
     font-weight: bold;
 }
+h3 i{
+    font-weight: normal;
+}
 
 /* MOBILE VIEWING*/
 
